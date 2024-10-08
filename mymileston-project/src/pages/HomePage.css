@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding-top: 10px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px 60px;
+    border-radius:5px;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+
+button:hover{
+    background-color: orange;
+    
+}
+
+button:focus{
+    outline: none;
+    box-shadow: 0 0 0 3px orange;
+    margin: 5px;
+}
+
+button:active{
+    background-color: orange;
+    border-color: white;
+    color: pink;
+    
+}
+
+.center{
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 4%;
+    
+}
+
+
+img{
+    
+    width: 50px;
+}
+
+.image{
+    text-align: center;
+    width: 250px;
+    padding-top: 10px;
+
+}
+
+.butonsa{
+   
+
+    margin-top: 50px;
+}

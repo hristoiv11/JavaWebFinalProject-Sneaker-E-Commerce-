@@ -1,0 +1,65 @@
+/*body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}*/
+
+
+.card-img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  }
+  
+  .card-title{
+    font-family: cursive;
+  }
+  
+
+.brandcard{
+  background-color: lightblue;
+}
+
+.sneakercard{
+  background-color: lightblue;
+}
+
+.p-3{
+  background-color: bisque;
+  position: cover;
+  
+}
+
+.justify-content-evently{
+  background-color: bisque;
+  padding-bottom: 50%;
+  
+}
+
+.addnick{
+  background-color: #04AA6D;
+}
+
+.p-4{
+  background-color: bisque;
+  
+}
+
+.backgroundBrand{
+  background-color: bisque;
+  padding-top: 2%;
+}
+
+.backgroundSneaker{
+  background-color: bisque;
+  padding-top: 2%;
+}
+
